@@ -319,7 +319,6 @@ def send_commands(conn):
 			 
 
 def main():
-    compiler()
     ui()
     create_socket()
     socket_bind()
